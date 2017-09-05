@@ -79,5 +79,5 @@ theme: classting
 # Deployment
 deploy:
   type: git
-  repository: https://c198effcb3f78ef913d1e200d86e8d185156c592:x-oauth-basic@github.com/classtinginc/classtinginc.github.io.git
+  repository: https://3c2a4ec0f0d65a225ec599fb57c7ce039983d976:x-oauth-basic@github.com/classtinginc/classtinginc.github.io.git
   branch: master
