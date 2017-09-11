@@ -429,10 +429,9 @@ body {
 }
 .position-faq a {
   color: #00c896;
-  text-decoration: underline;
 }
 .position-faq a:hover {
-  font-weight: bold;
+  text-decoration: none;
 }
 .products-cover {
   background-image: url("images/ct_products.jpg");
@@ -597,6 +596,9 @@ body {
   position: relative;
   overflow: hidden;
   padding: 16px;
+}
+.find-members a:hover {
+  text-decoration: none;
 }
 .icon {
   display: block;
