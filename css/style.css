@@ -413,7 +413,7 @@ body {
     margin: auto;
   }
 }
-.benefit {
+.benefit .row {
   margin-bottom: 30px;
 }
 .benefit img {
